@@ -1,0 +1,36 @@
+Gender  Height (inches)  Weight (lbs)
+Female  67  150
+Female  65  135
+Female  68  130
+Male    70  160
+Female  70  130
+Male    69  174
+Male    65  126
+Male    74  188
+Female  60  110
+Female  63  125
+Male    70  173
+Female  70  145
+Male    68  175
+Female  65  123
+Male    71  145
+Male    74  160
+Female  64  135
+Male    71  175
+Male    67  145
+Male    67  130
+Male    70  162
+Female  64  107
+Male    70  175
+Male    64  130
+Male    66  163
+Female  63  137
+Male    65  165
+Female  65  130
+Female  64  109
+
+
+
+
+
+
