@@ -1,6 +1,6 @@
 # Apache Spark Deep Learning Cookbook
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-deep-learning-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788474221"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B08765_MockupCover_NEW.png" alt="Hands-on Blockchain with Hyperledger" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-deep-learning-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788474221"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781788474221-%20Copy.png" alt="Hands-on Blockchain with Hyperledger" height="256px" align="right"></a>
 
 This is the code repository for [Apache Spark Deep Learning Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-deep-learning-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788474221), published by Packt.
 
